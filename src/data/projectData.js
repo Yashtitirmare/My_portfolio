@@ -4,6 +4,11 @@ export const projectData = {
 
   projects: [
     {
+      title: "Zoho Analytics Dashboard, Reports, and Visual Charts",
+      description: "A comprehensive suite of Sales reports and dashboards, Inventory Optimization and Reorder Report, Financial Reconciliation Reports, Customer Retention and Feedback Analysis developed using Zoho Books, Zoho Analytics, and Excel to enhance business insights and operational efficiency.",
+      tech: ["Zoho Books", "Zoho Analytics", "Excel"],
+    },
+    {
       title: "E-Commerce Platform",
       description: "A comprehensive Shopify-based full-stack e-commerce solution, featuring seamless PhonePe payment integration and Zoho Inventory synchronization for streamlined Stock management.",
       tech: ["Shopify", "JavaScript", "Liquid"],
